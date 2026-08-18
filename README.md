@@ -1,11 +1,11 @@
 # LeetCode Solutions
 
-Solutions to 229 LeetCode problems in C++, Java, Python, and JavaScript.
+Solutions to 234 LeetCode problems in C++, Java, Python, and JavaScript.
 
 ## Stats
-- **Total Problems Solved:** 229
+- **Total Problems Solved:** 234
 - **Easy:** 156
-- **Medium:** 52
+- **Medium:** 57
 - **Hard:** 21
 
 ## Structure
